@@ -1,0 +1,238 @@
+<!-- CONTACT SPLIT -->
+<div class="contact-hero">
+  <div class="contact-left">
+    <div class="sec-eye">Direct Contact</div>
+    <div class="contact-h">
+      REACH<br>
+      <span class="red">OUT.</span><br>
+      <span class="stroke">NOW. ★</span>
+    </div>
+    <div class="contact-sub">
+      You don't need a middleman. Hit us directly on WhatsApp or the form — fast, direct, no noise.
+    </div>
+    <div class="contact-items">
+      <a href="tel:0766461594" class="ci">
+        <div class="ci-icon">📞</div>
+        <div><div class="ci-label">Phone</div><div class="ci-val">076 646 1594</div></div>
+      </a>
+      <a href="https://wa.me/27766461594" class="ci">
+        <div class="ci-icon">💬</div>
+        <div><div class="ci-label">WhatsApp</div><div class="ci-val">076 646 1594 — Message us directly</div></div>
+      </a>
+      <div class="ci" style="cursor:default;">
+        <div class="ci-icon">📍</div>
+        <div><div class="ci-label">Location</div><div class="ci-val">South Africa — Nationwide Delivery</div></div>
+      </div>
+      <div class="ci" style="cursor:default;">
+        <div class="ci-icon">⚡</div>
+        <div><div class="ci-label">Response Time</div><div class="ci-val">Within 24 hours — usually faster</div></div>
+      </div>
+      <div class="ci" style="cursor:default;">
+        <div class="ci-icon">🕐</div>
+        <div><div class="ci-label">Hours</div><div class="ci-val">Monday – Saturday, 9AM – 7PM</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="contact-right">
+    <div class="of-h">★ Place An Order</div>
+    <div class="of-sub">Fill in your details below and we'll confirm your order via WhatsApp.</div>
+    <div class="order-form">
+      <div class="of-row">
+        <input class="of-input" type="text" placeholder="Your name">
+        <input class="of-input" type="tel" placeholder="WhatsApp number">
+      </div>
+      <select class="of-select of-input">
+        <option value="" disabled selected>Select a piece</option>
+        <option>Lost Souls Piece — R XXX</option>
+        <option>High Roller Piece — R XXX</option>
+        <option>Cold As Ice Piece — R XXX</option>
+        <option>Moving On Piece — R XXX</option>
+        <option>Stargazer Piece — R XXX</option>
+        <option>Green Luck Piece — R XXX</option>
+        <option>Lilith '26 Piece — R XXX</option>
+        <option>Bleed Out Piece — R XXX</option>
+        <option>Thorn Bloom Piece — R XXX</option>
+      </select>
+      <div class="of-row">
+        <select class="of-select of-input">
+          <option value="" disabled selected>Size</option>
+          <option>XS</option>
+          <option>S</option>
+          <option>M</option>
+          <option>L</option>
+          <option>XL</option>
+          <option>XXL</option>
+        </select>
+        <input class="of-input" type="text" placeholder="City / Town">
+      </div>
+      <textarea class="of-textarea of-input" placeholder="Any notes or questions..."></textarea>
+      <a href="tel:0766461594" class="cta-primary" style="align-self:flex-start;"><span>★ Send Order via WhatsApp</span></a>
+      <p style="font-family:var(--I);font-style:italic;font-size:.85rem;color:var(--muted);line-height:1.8;">After submitting, we'll confirm details and payment via WhatsApp. Orders are final once confirmed.</p>
+    </div>
+  </div>
+</div>
+
+<!-- CONTACT STATEMENT -->
+<div class="statement-sec">
+  <div class="stmt-kicker">★ ★ ★ &nbsp; No Waiting. No Excuses. &nbsp; ★ ★ ★</div>
+  <div class="stmt-h">
+    DON'T<br>
+    <span class="yellow">HESITATE.</span><br>
+    <span class="stroke">MAKE THE</span><br>
+    MOVE.
+  </div>
+  <p class="stmt-sub">Every legend started with one decision. Place the order. Wear the proof.</p>
+  <div class="stmt-btns">
+    <a href="https://wa.me/27766461594" class="btn-black">★ WhatsApp Now</a>
+    <a href="#shop" onclick="showSection('shop')" class="btn-outline-w">Browse The Catalog</a>
+  </div>
+</div>
+
+</div><!-- END CONTACT -->
+
+
+<!-- FOOTER (always visible) -->
+<footer>
+  <div class="foot-inner">
+    <div>
+      <div class="foot-logo">
+        <!-- ═══ FOOTER LOGO ═══ -->
+        <!-- src="photos/kraz-kiwi-logo.png" — update when you have local file -->
+        <img src="https://krazkiwi.weebly.com/uploads/1/5/2/2/152248344/published/untitled707-20260224120111.png?1771927737" alt="Kraz Kiwi">
+      </div>
+      <p class="foot-bio">Born from the ashes of defiance. Built for those who refuse limits. Wear it like you mean it. ★</p>
+    </div>
+    <div>
+      <div class="foot-col-title">Navigate</div>
+      <div class="foot-links">
+        <a href="#home" onclick="showSection('home')">Home</a>
+        <a href="#shop" onclick="showSection('shop')">Shop</a>
+        <a href="#about" onclick="showSection('about')">About</a>
+        <a href="#contact" onclick="showSection('contact')">Contact</a>
+      </div>
+    </div>
+    <div>
+      <div class="foot-col-title">The Catalog</div>
+      <div class="foot-links">
+        <a href="#shop" onclick="showSection('shop')">Lost Souls Piece</a>
+        <a href="#shop" onclick="showSection('shop')">High Roller Piece</a>
+        <a href="#shop" onclick="showSection('shop')">Cold As Ice Piece</a>
+        <a href="#shop" onclick="showSection('shop')">Moving On Piece</a>
+        <a href="#shop" onclick="showSection('shop')">Stargazer Piece</a>
+        <a href="#shop" onclick="showSection('shop')">Green Luck Piece</a>
+        <a href="#shop" onclick="showSection('shop')">Lilith '26 Series</a>
+      </div>
+    </div>
+    <div>
+      <div class="foot-col-title">Contact</div>
+      <div class="foot-links">
+        <a href="tel:0766461594">076 646 1594</a>
+        <a href="https://wa.me/27766461594">WhatsApp Us</a>
+        <a href="#contact" onclick="showSection('contact')">Place an Order</a>
+      </div>
+    </div>
+  </div>
+  <div class="foot-bottom">
+    <div class="foot-copy">© 2026 Kraz Kiwi ★ All rights reserved.</div>
+    <div class="foot-tag">OUTWORK <span>YOUR PAST. ★</span></div>
+  </div>
+</footer>
+
+<script>
+// ─── Cursor ───
+const cur = document.getElementById('kk-cursor');
+document.addEventListener('mousemove', e => {
+  cur.style.left = e.clientX + 'px';
+  cur.style.top = e.clientY + 'px';
+});
+
+// ─── Loader ───
+window.addEventListener('load', () => {
+  setTimeout(() => {
+    const l = document.getElementById('loader');
+    l.style.transition = 'opacity .5s ease';
+    l.style.opacity = '0';
+    setTimeout(() => l.remove(), 500);
+  }, 1600);
+});
+
+// ─── Nav pin ───
+const nav = document.getElementById('nav');
+window.addEventListener('scroll', () => {
+  nav.classList.toggle('pinned', window.scrollY > 80);
+});
+
+// ─── Section switcher ───
+const sections = ['home', 'shop', 'about', 'contact'];
+function showSection(id) {
+  sections.forEach(s => {
+    const el = document.getElementById('section-' + s);
+    if (el) el.style.display = s === id ? 'block' : 'none';
+  });
+  // Update active nav link
+  document.querySelectorAll('.nav-link').forEach(a => {
+    a.classList.toggle('active', a.dataset.section === id);
+  });
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  // Re-trigger reveal animations
+  setTimeout(() => {
+    document.querySelectorAll('.rv').forEach(el => {
+      if (!el.classList.contains('on')) observer.observe(el);
+    });
+  }, 100);
+}
+
+// ─── Scroll reveal ───
+const rvEls = document.querySelectorAll('.rv');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.classList.add('on');
+      observer.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.08 });
+rvEls.forEach(el => observer.observe(el));
+
+// ─── Hero parallax ───
+window.addEventListener('scroll', () => {
+  const img = document.querySelector('.hero-product-img');
+  if (img) img.style.transform = `translateY(${scrollY * .1}px)`;
+});
+
+// ─── Shop filter buttons ───
+document.querySelectorAll('.sf').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sf').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  });
+});
+
+// ─── Star field ───
+(function(){
+  const body = document.body;
+  for(let i = 0; i < 55; i++){
+    const s = document.createElement('div');
+    const size = Math.random() * 2.5 + .8;
+    const dur = Math.random() * 4 + 2;
+    const delay = Math.random() * 8;
+    s.style.cssText = `
+      position:fixed;z-index:0;pointer-events:none;
+      width:${size}px;height:${size}px;border-radius:50%;
+      background:#D10000;opacity:0;
+      left:${Math.random()*100}%;top:${Math.random()*100}%;
+      animation:starTwink ${dur}s ${delay}s ease-in-out infinite;
+    `;
+    body.appendChild(s);
+  }
+  if(!document.getElementById('starStyle')){
+    const st = document.createElement('style');
+    st.id = 'starStyle';
+    st.textContent = `@keyframes starTwink{0%,100%{opacity:0;transform:scale(.3)}50%{opacity:.5;transform:scale(1)}}`;
+    document.head.appendChild(st);
+  }
+})();
+</script>
+</body>
+</html>
